@@ -1,0 +1,6 @@
+--- REGRESYON ANAL�Z� SONUCU (THY -> PEGASUS) ---
+Denklem: PGSUS = 0.8441 * THYAO + 0.0001
+R-Kare (Belirleyicilik Katsayısı): 0.6157
+Korelasyon (R): 0.7847
+P-Degeri: 0.0000
+Standart Hata: 0.0189

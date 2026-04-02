@@ -1,0 +1,728 @@
+--- ÇOKLU HİPOTEZ TESTİ SONUÇLARI (TÜM ŞİRKETLER) ---
+
+H0 Hipotezi: İki şirketin getiri ortalamaları arasında fark yoktur.
+H1 Hipotezi: İki şirket birbirinden istatistiksel olarak farklıdır.
+------------------------------------------------------------
+Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs PGSUS
+   -> P-Değeri: 0.7416
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-
+Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: THYAO vs CLEBI
+   -> P-Değeri: 0.7615
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-
+Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-Kıyaslama: PGSUS vs CLEBI
+   -> P-Değeri: 0.9937
+   -> Karar: H0 REDDEDİLEMEDİ (Benzerler)
+   -> Yorum: Bu iki şirketin getirileri birbirine BENZER (Şans eseri fark var).
+-

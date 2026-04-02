@@ -1,0 +1,16 @@
+--- KARÞILAÞTIRMALI REGRESYON ANALÝZÝ RAPORU ---
+
+BAÐIMSIZ DEÐÝÞKEN (X): THYAO (Sektör Lideri)
+
+1. PEGASUS (PGSUS) ÝLÝÞKÝSÝ:
+   - Denklem: y = 0.8352x + -0.0000
+   - Eðim (Beta/Duyarlýlýk): 0.8352
+   - R-Kare (Belirleyicilik): 0.6163
+
+2. ÇELEBÝ (CLEBI) ÝLÝÞKÝSÝ:
+   - Denklem: y = 0.6544x + 0.0002
+   - Eðim (Beta/Duyarlýlýk): 0.6544
+   - R-Kare (Belirleyicilik): 0.2688
+
+SONUÇ YORUMU:
+Hangi hissenin Eðimi (Slope) daha yüksekse, o hisse THY'nin hareketlerine daha sert tepki verir.

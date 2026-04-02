@@ -1,0 +1,4 @@
+THY vs PEGASUS T-Testi Sonucu:
+T-Istatistigi: 0.1411
+P-Degeri: 0.8879
+Sonuc: H0 Reddedilemedi (Fark yok).
